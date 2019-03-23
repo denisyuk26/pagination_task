@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can see the [demo] (https://denisyuk26.github.io/pagination_task/)
+You can see the [demo](https://denisyuk26.github.io/pagination_task/)
 
 ## Available Scripts
 
