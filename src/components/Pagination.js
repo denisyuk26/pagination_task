@@ -11,7 +11,7 @@ export default function Pagination(props) {
             props.handleCurrentPage(item + 1);
           }}
           key={item}
-          isActive={true}
+          
         >
           {item + 1}
         </Button>
